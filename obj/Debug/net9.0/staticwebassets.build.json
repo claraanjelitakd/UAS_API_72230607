@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QBfzUOnSdAEvIm+vU5Tt7atSIfE6tmfEszZ14wc6d74=",
+  "Source": "UAS_POS_CLARA",
+  "BasePath": "_content/UAS_POS_CLARA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
